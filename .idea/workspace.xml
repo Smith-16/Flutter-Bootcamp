@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1d28a40-da43-4626-86af-8bc256deb5f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Module one/taskF.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module one/taskG.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module one/taskH.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module one/taskI.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module one/taskJ.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module one/taskE.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Module one/taskE.dart" afterDir="false" />
-    </list>
+    <list default="true" id="b1d28a40-da43-4626-86af-8bc256deb5f7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
