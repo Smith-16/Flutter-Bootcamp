@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1d28a40-da43-4626-86af-8bc256deb5f7" name="Changes" comment="" />
+    <list default="true" id="b1d28a40-da43-4626-86af-8bc256deb5f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Practical Assignments/Task1.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical Assignments/Task2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/forinEachex.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,6 +35,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Dart Command Line App.Task1.dart.executor": "Run",
+    "Dart Command Line App.Task2.dart.executor": "Run",
+    "Dart Command Line App.forinEachex.dart.executor": "Run",
     "Dart Command Line App.taskA.dart.executor": "Run",
     "Dart Command Line App.taskB.dart.executor": "Run",
     "Dart Command Line App.taskC.dart.executor": "Run",
