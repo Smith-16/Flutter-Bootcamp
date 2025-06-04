@@ -12,9 +12,13 @@
       <excludeFolder url="file://$MODULE_DIR$/dart-sdk/pkg/_macros/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/dart-sdk/pkg/_macros/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dart-sdk/pkg/_macros/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Module2/firstapp2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Module2/firstapp2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Module2/firstapp2/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>

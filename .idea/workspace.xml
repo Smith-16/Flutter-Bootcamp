@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1d28a40-da43-4626-86af-8bc256deb5f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Practical Assignments/Task14.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical Assignments/Task15.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical Assignments/Task16.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Flutter-Bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Flutter-Bootcamp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practical Assignments/Task13.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Practical Assignments/Task13.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +41,9 @@
     &quot;Dart Command Line App.Task10.dart.executor&quot;: &quot;Run&quot;,
     &quot;Dart Command Line App.Task11.dart.executor&quot;: &quot;Run&quot;,
     &quot;Dart Command Line App.Task12.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.Task13.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.Task14.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.Task16.dart.executor&quot;: &quot;Run&quot;,
     &quot;Dart Command Line App.Task2.dart.executor&quot;: &quot;Run&quot;,
     &quot;Dart Command Line App.Task3.dart.executor&quot;: &quot;Run&quot;,
     &quot;Dart Command Line App.Task4.dart.executor&quot;: &quot;Run&quot;,
@@ -44,6 +52,7 @@
     &quot;Dart Command Line App.Task9.dart.executor&quot;: &quot;Run&quot;,
     &quot;Dart Command Line App.example.dart.executor&quot;: &quot;Run&quot;,
     &quot;Dart Command Line App.forinEachex.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.main.dart.executor&quot;: &quot;Run&quot;,
     &quot;Dart Command Line App.task1.dart.executor&quot;: &quot;Run&quot;,
     &quot;Dart Command Line App.task10.dart.executor&quot;: &quot;Run&quot;,
     &quot;Dart Command Line App.task19.dart.executor&quot;: &quot;Run&quot;,
