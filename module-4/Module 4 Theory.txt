@@ -1,0 +1,23 @@
+Module 4 Theory
+12. How the Navigator Widget Works in Flutter
+•	Manages a stack of routes (screens).
+•	Use Navigator.push() to add a new screen to the stack.
+•	Use Navigator.pop() to go back.
+•	Mimics browser-like back/forward navigation.
+________________________________________
+13. Concept of Named Routes and Their Advantages
+•	Define routes with string names like /home, /details.
+•	Navigate using Navigator.pushNamed(context, '/home').
+•	Easier to manage, maintain, and reuse across the app.
+•	Promotes clean code and centralized route handling.
+________________________________________
+14. Passing Data Between Screens Using Route Arguments
+•	Pass arguments using:
+dart
+CopyEdit
+Navigator.pushNamed(context, '/details', arguments: 'data');
+•	Receive arguments using:
+dart
+CopyEdit
+final data = ModalRoute.of(context)?.settings.arguments;
+•	Useful for passing values like IDs, strings, or entire objects between screens.

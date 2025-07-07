@@ -1,0 +1,19 @@
+Module 3 Theory:=
+9. Difference Between Stateless and Stateful Widgets
+StatelessWidget	StatefulWidget
+Immutable	Mutable
+UI doesn’t change	UI can change with state
+Example: Text("Hello")	Example: Counter app with increment
+________________________________________
+10. Widget Lifecycle and State Management
+•	initState(): Called when the widget is inserted into the widget tree.
+•	build(): Rebuilds the UI when setState is called.
+•	dispose(): Called when the widget is removed from the tree.
+State is managed in the State<T> class and updated using setState().
+________________________________________
+11. Five Common Flutter Layout Widgets
+1.	Container – Box-like widget for styling, margin, padding, and color.
+2.	Column – Vertically arranges widgets.
+3.	Row – Horizontally arranges widgets.
+4.	Center – Centers its child within itself.
+5.	Expanded – Fills remaining space within Column/Row.

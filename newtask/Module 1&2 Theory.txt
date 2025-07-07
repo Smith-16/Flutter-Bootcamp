@@ -1,0 +1,55 @@
+Module 1 Theory :=
+1. Benefits of Using Flutter Over Other Cross-Platform Frameworks
+•	Single codebase: Write once, run on iOS, Android, web, and desktop.
+•	Hot reload: Allows real-time UI and logic updates during development.
+•	Custom rendering engine: Ensures consistent design across platforms.
+•	Performance: Near-native performance thanks to Dart's compiled code.
+________________________________________
+2. Role of Dart in Flutter and Its Advantages
+•	Dart is Flutter’s official programming language.
+•	It compiles to native ARM/x86 code for high-performance mobile apps.
+•	Supports both JIT (Just-in-Time) for development and AOT (Ahead-of-Time) for release.
+•	Dart has simple and familiar syntax for developers from Java, JavaScript, or C# backgrounds.
+________________________________________
+3. Steps to Set Up a Flutter Development Environment
+1.	Download and install the Flutter SDK from flutter.dev.
+2.	Install Flutter & Dart plugins in an IDE (e.g., Android Studio or VS Code).
+3.	Run flutter doctor in the terminal to check for missing dependencies.
+4.	Create and run your first project using flutter create.
+________________________________________
+4. Basic Flutter App Structure
+•	main.dart is the entry point of a Flutter app.
+•	The main() function calls runApp() to load the root widget.
+•	UI is built using a widget tree, combining reusable components to form complex interfaces.
+
+
+Module 2 Theory:=
+5. Fundamental Data Types in Dart
+•	int: Whole numbers (e.g., 5)
+•	double: Decimal numbers (e.g., 3.14)
+•	String: Text (e.g., "Hello")
+•	List: Ordered collections (e.g., [1, 2, 3])
+•	Map: Key-value pairs (e.g., {'name': 'John'})
+________________________________________
+6. Control Structures in Dart
+•	if / else: Conditional branching
+•	for / while: Looping
+•	switch / case: Multi-branch condition handling
+Example:
+dart
+CopyEdit
+if (x > 0) print("Positive");
+for (var i = 0; i < 5; i++) print(i);
+________________________________________
+7. Object-Oriented Programming in Dart
+•	Class: Blueprint for creating objects.
+•	Inheritance: Allows a class to inherit from another.
+•	Polymorphism: Enables the use of different object types via a common interface.
+•	Dart lacks formal interfaces but uses abstract classes to define them.
+________________________________________
+8. Asynchronous Programming in Dart
+•	Future: Represents a value that will be available later.
+•	async/await: Used to write asynchronous code that looks like synchronous code.
+•	Stream: Handles multiple asynchronous events (like user input or sensor data).
+
+
